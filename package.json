@@ -13,6 +13,18 @@
     "format:check": "prettier --check .",
     "preview": "vite preview"
   },
+  "devEngines": {
+    "packageManager": {
+      "name": "npm",
+      "onFail": "warn",
+      "version": "12"
+    },
+    "runtime": {
+      "name": "node",
+      "onFail": "warn",
+      "version": "24"
+    }
+  },
   "type": "module",
   "version": "0.0.0"
 }
