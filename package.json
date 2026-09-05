@@ -4,7 +4,7 @@
     "typescript": "~6.0.2",
     "vite": "^8.2.2"
   },
-  "name": "deflect-game",
+  "name": "starter-vite-vanilla-ts",
   "private": true,
   "scripts": {
     "build": "tsc && vite build",
